@@ -2,4 +2,4 @@
 
 WIP
 
-[Live Server](https://nlw-impulse-web-bay.vercel.app/)
+[Live App](https://nlw-impulse-web-bay.vercel.app/)
