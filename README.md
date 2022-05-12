@@ -3,12 +3,6 @@ This was the conclusion of a week of classes from Rocketseat [NLW Return - Impul
 
 The challenge was to build a "Feedget" App, a somewhat basic (not my words) app that you can click and expand into a Text Input where you can select 3 options, being them Send a Bug, Send an Idea, Send Other. Then you type something and you can take a screenshot of the screen and send it. It included the web, server, mobile and also a deploy sections. It was divided into five days, being the first two the Web, third was Server, fourth Mobile and fifth Deploy.
 
-## Screenshots
-
-- Web
-- Server
-- Mobile
-
 ## Live Web App
 [Live App](https://nlw-impulse-web-bay.vercel.app/)
 
